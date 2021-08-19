@@ -15,7 +15,7 @@ import android.view.ViewGroup;
 public class choose_dishes extends Fragment {
 
     private ChooseDishesViewModel mViewModel;
-
+//3423453
     public static choose_dishes newInstance() {
         return new choose_dishes();
     }
